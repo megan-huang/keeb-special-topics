@@ -1,8 +1,8 @@
 # 3x10 keyboard with two holes in the matrix at positions 11 and 29
-# author: Megan Huang <mhuang25@amherst.edu>
-# last modified: 7 May 2024
+# Author: Megan Huang <mhuang25@amherst.edu>
+# Last modified: 7 May 2024
 
-# notes: 
+# Notes: 
 # file name "code.py" within directory.
 # adapted from John Park: https://learn.adafruit.com/numpad-4000-mechanical-keyswitch-data-entry-device/code-and-use-the-numpad-4000
 # requires the python 9 library contents from the guide's project bundle
