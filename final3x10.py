@@ -1,6 +1,6 @@
 # 3x10 keyboard with two holes in the matrix at positions 11 and 29
 # Author: Megan Huang <mhuang25@amherst.edu>
-# Last modified: 7 May 2024
+# Last Modified: 7 May 2024
 
 # Notes: 
 # file name "code.py" within directory.
